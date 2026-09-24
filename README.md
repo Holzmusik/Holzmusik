@@ -25,6 +25,16 @@ Sensor-Ausstattung — verbunden über LAN/WLAN und MQTT.
 
 👉 **[Zur Projektübersicht](https://github.com/Holzmusik/MiraiPanel)** — alle Details, Screenshots und Teilprojekte.
 
+## Weitere Projekte
+
+Eigene LoxBerry-Plugins, die Loxone per MQTT mit anderen Systemen verbinden:
+
+| Projekt | Was es macht |
+|---|---|
+| [LoxBerry-Plugin-KNXtoLOX](https://github.com/Holzmusik/LoxBerry-Plugin-KNXtoLOX) | KNX ↔ MQTT ↔ Loxone Bridge |
+| [LoxBerry-Plugin-froniusmqtt](https://github.com/Holzmusik/LoxBerry-Plugin-froniusmqtt) | Fronius GEN24 (+ Reserva) Solar-API ↔ MQTT Bridge |
+| [LoxBerry-Plugin-EaseeMQTT](https://github.com/Holzmusik/LoxBerry-Plugin-EaseeMQTT) | Easee-Wallbox ↔ MQTT ↔ Loxone Bridge |
+
 ---
 
 <sub>MiraiPanel ist ein unabhängiges Projekt und steht in keiner Verbindung
